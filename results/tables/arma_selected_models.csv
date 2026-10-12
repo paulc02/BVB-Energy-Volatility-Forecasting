@@ -1,0 +1,5 @@
+﻿Activ,Model Selectat,AIC,Dimensiune Train,Dimensiune Test
+Rand_SNP,"ARMA(2,1)",-17255.85,3075,769
+Rand_SNN,"ARMA(2,0)",-15043.85,2704,677
+Rand_H2O,"ARMA(0,0)",-4437.22,668,167
+Rand_BET-NG,"ARMA(2,0)",-19673.67,3075,769
