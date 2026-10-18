@@ -79,7 +79,7 @@ Dataset columns: `Pret_<X>` = price/level, `Rand_<X>` = daily log-return, `Diff_
 ## How to reproduce
 
 ```bash
-git clone https://github.com/paulc02/BVB-Energy-Volatility-Forecasting && cd bvb-energy-volatility-forecasting
+git clone https://github.com/paulc02/BVB-Energy-Volatility-Forecasting && cd BVB-Energy-Volatility-Forecasting
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
